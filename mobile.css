@@ -1,0 +1,26 @@
+h1{
+    padding: 5px; 
+    font-size: 20px;
+    text-align: center;   
+    background-color:rosybrown;
+    word-spacing: 5px;
+    padding: 10px 20px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+      }
+
+.img{
+  height: 100%;
+  width: 10%;
+  float: left;
+}
+.aaa1{
+  padding:100px;
+  border: 2px solid lightgrey;
+  border-radius: 10px;
+  width: 30%;
+  height: 5%;
+  float: left;
+  margin: 15px;
+  padding: 6px 10px;
+  }
+  

@@ -1,0 +1,42 @@
+img{
+    width: 100%;
+    height: 250px;
+    }
+ 
+.abc{
+padding:30px;
+border: 1px solid black;
+border-radius: 20px;
+width: 40%;
+float: left;
+margin-left: 30%;
+height:350px;
+}
+
+label{
+line-height: 1.1;
+}
+
+input[type=text], select, textarea {
+width: 95%;
+padding: 5px;
+}
+
+input[type=email], select, textarea {
+width: 95%;
+padding: 5px;
+}
+
+.button {
+background-color: #4CAF50;
+border: none;
+color: white;
+padding: 6px 10px;
+text-align: center;
+border-radius: 6px;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+margin: 1px 1px;
+cursor: pointer;
+}
